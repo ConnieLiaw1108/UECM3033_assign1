@@ -1,8 +1,8 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: Connie Liaw Hong Yao
+- Tutorial Group: T3
 
 --------------------------------------------------------
 
@@ -10,14 +10,13 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/ConnieLiaw1108/UECM3033_assign1](https://github.com/ConnieLiaw1108/UECM3033_assign1)
 
 
 ---------------------------------------------------------
 
 ## Task 2 -- setup python
 
-Put here the screen shot of file (python.png)
 
 ![python.png](python.png)
 
@@ -26,21 +25,25 @@ Put here the screen shot of file (python.png)
 
 ## Task 3 -- modify and run Python script
 
-In this section, please report:
+1. Hexadecimal representation of 1307632 is 0x13f3f0
 
-1. The hexadecimal value of your student ID.
-2. Write down the definite integrals that you have chosen.
-3. Write down your system of 10 linear equations.
+2. $$\int_0^{\frac12} e^x + 2\cos {x\pi} dx = 2\pi + 0.648721270700128
 
-Here are the examples of how to add equations in markdown:
+3.\begin{align*}
+  x_0 + x_2 &= 6,\\
+  2 x_0 + 3 x_4 &= 34,\\
+  4 x_1 + 6 x_6 &= 110,\\
+  x_1 + 2 x_9 &= 29,\\
+  8 x_2 + x_4 &= 42,\\
+  10 x_4 + x_8 &= 120,\\
+  x_3 + x_6 &= 21,\\
+  5 x_5 + 3 x_9 &= 76,\\
+  x_7 + 4 x_8 &= 83,\\
+  2 x_5 + 9 x_7 &= 43,\\.
+  \end{align*}
 
-$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
-
-\begin{align*}
-3 x_0 +x_1 &= 9,\\
-x_0 + 2 x_1 &= 8.
-\end{align*}
+  Solution =  [  2.   5.   4.   6.  10.   8.  15.   3.  20.  12.]
 
 -----------------------------------
 
-<sup>last modified: change your date here</sup>
+<sup>last modified: 28/01/2016</sup>
