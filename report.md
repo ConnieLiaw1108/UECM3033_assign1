@@ -39,7 +39,7 @@ The reports, codes and supporting documents are uploaded to Github at:
   x_3 + x_6 &= 21,\\
   5 x_5 + 3 x_9 &= 76,\\
   x_7 + 4 x_8 &= 83,\\
-  2 x_5 + 9 x_7 &= 43,\\.
+  2 x_5 + 9 x_7 &= 43.
   \end{align*}
 
   Solution =  [  2.   5.   4.   6.  10.   8.  15.   3.  20.  12.]
